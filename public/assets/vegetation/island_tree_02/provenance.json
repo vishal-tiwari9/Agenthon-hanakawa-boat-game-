@@ -1,0 +1,83 @@
+{
+  "id": "island_tree_02",
+  "name": "Island Tree 02",
+  "type": "model",
+  "source": "https://polyhaven.com/a/island_tree_02",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T18:25:05.626Z",
+  "files": [
+    {
+      "file": "island_tree_02_1k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/island_tree_02/island_tree_02_1k.gltf",
+      "size": 8545
+    },
+    {
+      "file": "textures/island_tree_02_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_nor_gl_1k.jpg",
+      "size": 1157226
+    },
+    {
+      "file": "textures/island_tree_02_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+      "size": 738738
+    },
+    {
+      "file": "textures/island_tree_02_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_arm_1k.jpg",
+      "size": 688305
+    },
+    {
+      "file": "textures/island_tree_02_leaves_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.jpg",
+      "size": 379443
+    },
+    {
+      "file": "textures/island_tree_02_leaves_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_diff_1k.jpg",
+      "size": 191886
+    },
+    {
+      "file": "textures/island_tree_02_leaves_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_arm_1k.jpg",
+      "size": 489476
+    },
+    {
+      "file": "textures/island_tree_02_branches_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.jpg",
+      "size": 819101
+    },
+    {
+      "file": "textures/island_tree_02_branches_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_diff_1k.jpg",
+      "size": 528304
+    },
+    {
+      "file": "textures/island_tree_02_branches_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_arm_1k.jpg",
+      "size": 484806
+    },
+    {
+      "file": "island_tree_02.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02.bin",
+      "size": 40686576
+    }
+  ],
+  "processed": "decimated for realtime by src/vegetation/tools/optimize-tree.mjs: trunk simplified (meshoptimizer), fine twigs removed, modeled leaves/needle sprays converted to alpha-tested quads with card centers (_CENTER), near lod plus a texture-less far lod; leaf atlas given an alpha channel",
+  "shippedFiles": [
+    "island_tree_02.bin",
+    "island_tree_02.gltf",
+    "island_tree_02_leaves_diff_1k.png",
+    "island_tree_02_lod1.glb",
+    "textures/island_tree_02_arm_1k.jpg",
+    "textures/island_tree_02_branches_arm_1k.jpg",
+    "textures/island_tree_02_branches_diff_1k.jpg",
+    "textures/island_tree_02_branches_nor_gl_1k.jpg",
+    "textures/island_tree_02_diff_1k.jpg",
+    "textures/island_tree_02_nor_gl_1k.jpg"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "wicker_basket_02",
+  "name": "Wicker Basket 02",
+  "type": "model",
+  "source": "https://polyhaven.com/a/wicker_basket_02",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Kuutti Siitonen"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T19:55:32.446Z",
+  "files": [
+    {
+      "file": "wicker_basket_02_1k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wicker_basket_02/wicker_basket_02_1k.gltf",
+      "size": 4497
+    },
+    {
+      "file": "textures/wicker_basket_02_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_02/wicker_basket_02_nor_gl_1k.jpg",
+      "size": 1041220
+    },
+    {
+      "file": "wicker_basket_02.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wicker_basket_02/wicker_basket_02.bin",
+      "size": 432572
+    },
+    {
+      "file": "textures/wicker_basket_02_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_02/wicker_basket_02_arm_1k.jpg",
+      "size": 718943
+    },
+    {
+      "file": "textures/wicker_basket_02_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wicker_basket_02/wicker_basket_02_diff_1k.jpg",
+      "size": 867277
+    }
+  ]
+}

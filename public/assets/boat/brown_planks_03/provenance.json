@@ -1,0 +1,29 @@
+{
+  "id": "brown_planks_03",
+  "name": "Brown Planks 03",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/brown_planks_03",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T20:06:32.158Z",
+  "files": [
+    {
+      "file": "brown_planks_03_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_planks_03/brown_planks_03_diff_2k.jpg",
+      "size": 2411538
+    },
+    {
+      "file": "brown_planks_03_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_planks_03/brown_planks_03_nor_gl_2k.jpg",
+      "size": 2425492
+    },
+    {
+      "file": "brown_planks_03_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_planks_03/brown_planks_03_arm_2k.jpg",
+      "size": 600422
+    }
+  ]
+}

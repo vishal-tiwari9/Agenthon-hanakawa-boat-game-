@@ -1,0 +1,30 @@
+{
+  "id": "weathered_planks",
+  "name": "Weathered Planks",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/weathered_planks",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Dario Barresi",
+    "Dimitrios Savva"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T18:24:04.767Z",
+  "files": [
+    {
+      "file": "weathered_planks_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_diff_1k.jpg",
+      "size": 599581
+    },
+    {
+      "file": "weathered_planks_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_nor_gl_1k.jpg",
+      "size": 681552
+    },
+    {
+      "file": "weathered_planks_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/weathered_planks/weathered_planks_arm_1k.jpg",
+      "size": 528272
+    }
+  ]
+}

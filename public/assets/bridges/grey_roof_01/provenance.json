@@ -1,0 +1,29 @@
+{
+  "id": "grey_roof_01",
+  "name": "Grey Roof 01",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/grey_roof_01",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T19:53:33.963Z",
+  "files": [
+    {
+      "file": "grey_roof_01_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_01/grey_roof_01_diff_1k.jpg",
+      "size": 419760
+    },
+    {
+      "file": "grey_roof_01_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_01/grey_roof_01_nor_gl_1k.jpg",
+      "size": 623013
+    },
+    {
+      "file": "grey_roof_01_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grey_roof_01/grey_roof_01_arm_1k.jpg",
+      "size": 243234
+    }
+  ]
+}

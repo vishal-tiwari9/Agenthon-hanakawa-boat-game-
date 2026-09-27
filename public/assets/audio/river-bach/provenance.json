@@ -1,0 +1,22 @@
+{
+  "id": "river-bach",
+  "name": "Stream babbling (Molln, Krumme Steyerling)",
+  "type": "audio",
+  "source": "https://commons.wikimedia.org/wiki/File:2024-07-26_Molln_(Ober%C3%B6sterreich)_Bachlauf_pl%C3%A4tschert_(Krumme_Steyerling_bei_Piesslingerstra%C3%9Fe).wav",
+  "license": "CC0 1.0 (self)",
+  "authors": [
+    "DrTrumpet"
+  ],
+  "note": "Krumme Steyerling near Piesslingerstrasse, Molln, Upper Austria, 2024. Neumann TLM 102 + Zoom H6. Faster-current babble loop.",
+  "processing": "ffmpeg: trim, mono, highpass=f=80,highpass=f=80,lowpass=f=12000, linear gain to -22 LUFS (true peak <= -1.5 dBTP), short fades; mp3 via libmp3lame",
+  "downloaded": "2026-09-23T19:58:42.342Z",
+  "files": [
+    {
+      "file": "river-babble.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2024-07-26_Molln_%28Ober%C3%B6sterreich%29_Bachlauf_pl%C3%A4tschert_%28Krumme_Steyerling_bei_Piesslingerstra%C3%9Fe%29.wav",
+      "from": "0.3s",
+      "duration": "26s",
+      "size": 313086
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rock_moss_set_02",
+  "name": "Rock Moss Set 02",
+  "type": "model",
+  "source": "https://polyhaven.com/a/rock_moss_set_02",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Kless Gyzen"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:22:57.319Z",
+  "files": [],
+  "note": "geometry only, welded and decimated to three lods by tools/bake/rocks-prep.ts; textures not shipped"
+}

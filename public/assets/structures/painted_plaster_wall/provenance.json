@@ -1,0 +1,29 @@
+{
+  "id": "painted_plaster_wall",
+  "name": "Painted Plaster Wall",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/painted_plaster_wall",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T18:24:08.597Z",
+  "files": [
+    {
+      "file": "painted_plaster_wall_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/painted_plaster_wall/painted_plaster_wall_diff_2k.jpg",
+      "size": 3132937
+    },
+    {
+      "file": "painted_plaster_wall_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/painted_plaster_wall/painted_plaster_wall_nor_gl_2k.jpg",
+      "size": 4048392
+    },
+    {
+      "file": "painted_plaster_wall_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/painted_plaster_wall/painted_plaster_wall_arm_2k.jpg",
+      "size": 2159906
+    }
+  ]
+}

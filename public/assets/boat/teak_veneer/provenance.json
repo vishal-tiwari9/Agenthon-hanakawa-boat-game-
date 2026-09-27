@@ -1,0 +1,29 @@
+{
+  "id": "teak_veneer",
+  "name": "Teak Veneer",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/teak_veneer",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Jenelle van Heerden"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T18:45:18.102Z",
+  "files": [
+    {
+      "file": "teak_veneer_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/teak_veneer/teak_veneer_diff_2k.jpg",
+      "size": 2547317
+    },
+    {
+      "file": "teak_veneer_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/teak_veneer/teak_veneer_nor_gl_2k.jpg",
+      "size": 1947991
+    },
+    {
+      "file": "teak_veneer_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/teak_veneer/teak_veneer_arm_2k.jpg",
+      "size": 3408733
+    }
+  ]
+}

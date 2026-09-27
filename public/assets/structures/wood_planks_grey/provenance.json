@@ -1,0 +1,29 @@
+{
+  "id": "wood_planks_grey",
+  "name": "Wood Planks Grey",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/wood_planks_grey",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T18:24:07.965Z",
+  "files": [
+    {
+      "file": "wood_planks_grey_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_planks_grey/wood_planks_grey_diff_2k.jpg",
+      "size": 998333
+    },
+    {
+      "file": "wood_planks_grey_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_planks_grey/wood_planks_grey_nor_gl_2k.jpg",
+      "size": 647815
+    },
+    {
+      "file": "wood_planks_grey_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/wood_planks_grey/wood_planks_grey_arm_2k.jpg",
+      "size": 691036
+    }
+  ]
+}

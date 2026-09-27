@@ -1,0 +1,30 @@
+{
+  "id": "rock_boulder_dry",
+  "name": "Rock Boulder Dry",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/rock_boulder_dry",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Dimitrios Savva",
+    "Rico Cilliers"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T19:53:26.478Z",
+  "files": [
+    {
+      "file": "rock_boulder_dry_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_dry/rock_boulder_dry_diff_2k.jpg",
+      "size": 3437626
+    },
+    {
+      "file": "rock_boulder_dry_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_dry/rock_boulder_dry_nor_gl_2k.jpg",
+      "size": 3307320
+    },
+    {
+      "file": "rock_boulder_dry_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rock_boulder_dry/rock_boulder_dry_arm_2k.jpg",
+      "size": 3164814
+    }
+  ]
+}

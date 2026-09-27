@@ -1,0 +1,31 @@
+{
+  "id": "japanese_stone_wall",
+  "name": "Japanese Stone Wall",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/japanese_stone_wall",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rico Cilliers",
+    "Charlotte Baglioni",
+    "Dario Barresi"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T20:01:25.525Z",
+  "files": [
+    {
+      "file": "japanese_stone_wall_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/japanese_stone_wall/japanese_stone_wall_diff_2k.jpg",
+      "size": 4623186
+    },
+    {
+      "file": "japanese_stone_wall_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/japanese_stone_wall/japanese_stone_wall_nor_gl_2k.jpg",
+      "size": 4093483
+    },
+    {
+      "file": "japanese_stone_wall_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/japanese_stone_wall/japanese_stone_wall_arm_2k.jpg",
+      "size": 3112816
+    }
+  ]
+}

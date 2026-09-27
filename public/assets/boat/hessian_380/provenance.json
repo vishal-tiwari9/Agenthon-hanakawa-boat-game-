@@ -1,0 +1,30 @@
+{
+  "id": "hessian_380",
+  "name": "Hessian 380",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/hessian_380",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "colormass",
+    "Rico Cilliers"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:06:53.804Z",
+  "files": [
+    {
+      "file": "hessian_380_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hessian_380/hessian_380_diff_1k.jpg",
+      "size": 944914
+    },
+    {
+      "file": "hessian_380_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hessian_380/hessian_380_nor_gl_1k.jpg",
+      "size": 1076074
+    },
+    {
+      "file": "hessian_380_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/hessian_380/hessian_380_arm_1k.jpg",
+      "size": 1115361
+    }
+  ]
+}

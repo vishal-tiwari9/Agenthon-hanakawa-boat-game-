@@ -1,0 +1,65 @@
+{
+  "id": "fir_sapling_medium",
+  "name": "Fir Sapling Medium",
+  "type": "model",
+  "source": "https://polyhaven.com/a/fir_sapling_medium",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:02:09.845Z",
+  "files": [
+    {
+      "file": "fir_sapling_medium_1k.gltf",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/fir_sapling_medium/fir_sapling_medium_1k.gltf",
+      "size": 17059
+    },
+    {
+      "file": "textures/fir_sapling_medium_branches_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_nor_gl_1k.jpg",
+      "size": 1137533
+    },
+    {
+      "file": "textures/fir_sapling_medium_branches_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_diff_1k.jpg",
+      "size": 776567
+    },
+    {
+      "file": "textures/fir_sapling_medium_branches_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_branches_arm_1k.jpg",
+      "size": 789264
+    },
+    {
+      "file": "textures/fir_sapling_medium_twigs_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_nor_gl_1k.jpg",
+      "size": 472604
+    },
+    {
+      "file": "textures/fir_sapling_medium_twigs_diff_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_diff_1k.jpg",
+      "size": 297200
+    },
+    {
+      "file": "textures/fir_sapling_medium_twigs_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_sapling_medium/fir_sapling_medium_twigs_arm_1k.jpg",
+      "size": 407309
+    },
+    {
+      "file": "fir_sapling_medium.bin",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/fir_sapling_medium/fir_sapling_medium.bin",
+      "size": 74159400
+    }
+  ],
+  "processed": "decimated for realtime by src/vegetation/tools/optimize-tree.mjs: trunk simplified (meshoptimizer), fine twigs removed, modeled leaves/needle sprays converted to alpha-tested quads with card centers (_CENTER), near lod plus a texture-less far lod; leaf atlas given an alpha channel",
+  "shippedFiles": [
+    "fir_sapling_medium.bin",
+    "fir_sapling_medium.gltf",
+    "fir_sapling_medium_lod1.glb",
+    "fir_sapling_medium_twigs_diff_1k.png",
+    "textures/fir_sapling_medium_branches_arm_1k.jpg",
+    "textures/fir_sapling_medium_branches_diff_1k.jpg",
+    "textures/fir_sapling_medium_branches_nor_gl_1k.jpg"
+  ]
+}

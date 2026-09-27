@@ -1,0 +1,14 @@
+{
+  "id": "boulder_01",
+  "name": "Boulder 01",
+  "type": "model",
+  "source": "https://polyhaven.com/a/boulder_01",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rico Cilliers"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:23:01.336Z",
+  "files": [],
+  "note": "geometry only, welded and decimated to three lods by tools/bake/rocks-prep.ts; textures not shipped"
+}

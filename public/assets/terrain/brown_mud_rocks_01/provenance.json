@@ -1,0 +1,29 @@
+{
+  "id": "brown_mud_rocks_01",
+  "name": "Brown Mud Rocks 01",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/brown_mud_rocks_01",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:09:20.945Z",
+  "files": [
+    {
+      "file": "brown_mud_rocks_01_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_rocks_01/brown_mud_rocks_01_diff_1k.jpg",
+      "size": 887215
+    },
+    {
+      "file": "brown_mud_rocks_01_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_rocks_01/brown_mud_rocks_01_nor_gl_1k.jpg",
+      "size": 1400087
+    },
+    {
+      "file": "brown_mud_rocks_01_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_rocks_01/brown_mud_rocks_01_arm_1k.jpg",
+      "size": 514636
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "forest_leaves_02",
+  "name": "Forest Leaves 02",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/forest_leaves_02",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:09:22.150Z",
+  "files": [
+    {
+      "file": "forest_leaves_02_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_diffuse_1k.jpg",
+      "size": 437891
+    },
+    {
+      "file": "forest_leaves_02_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_nor_gl_1k.jpg",
+      "size": 577163
+    },
+    {
+      "file": "forest_leaves_02_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_leaves_02/forest_leaves_02_arm_1k.jpg",
+      "size": 313980
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "forrest_ground_03",
+  "name": "Forest Ground 03",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/forrest_ground_03",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:09:20.754Z",
+  "files": [
+    {
+      "file": "forrest_ground_03_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_diff_1k.jpg",
+      "size": 821191
+    },
+    {
+      "file": "forrest_ground_03_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_nor_gl_1k.jpg",
+      "size": 1587102
+    },
+    {
+      "file": "forrest_ground_03_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forrest_ground_03/forrest_ground_03_arm_1k.jpg",
+      "size": 272025
+    }
+  ]
+}

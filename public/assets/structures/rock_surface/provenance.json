@@ -1,0 +1,29 @@
+{
+  "id": "rock_surface",
+  "name": "Rock Surface",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/rock_surface",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T18:29:24.214Z",
+  "files": [
+    {
+      "file": "rock_surface_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_surface/rock_surface_diff_1k.jpg",
+      "size": 886291
+    },
+    {
+      "file": "rock_surface_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_surface/rock_surface_nor_gl_1k.jpg",
+      "size": 1152344
+    },
+    {
+      "file": "rock_surface_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_surface/rock_surface_arm_1k.jpg",
+      "size": 775175
+    }
+  ]
+}

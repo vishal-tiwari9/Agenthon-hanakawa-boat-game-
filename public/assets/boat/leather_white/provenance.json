@@ -1,0 +1,29 @@
+{
+  "id": "leather_white",
+  "name": "Leather White",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/leather_white",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T18:45:26.843Z",
+  "files": [
+    {
+      "file": "leather_white_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_diff_1k.jpg",
+      "size": 728363
+    },
+    {
+      "file": "leather_white_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_nor_gl_1k.jpg",
+      "size": 670610
+    },
+    {
+      "file": "leather_white_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leather_white/leather_white_arm_1k.jpg",
+      "size": 899257
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tit",
+  "name": "Great tit song",
+  "type": "audio",
+  "source": "https://commons.wikimedia.org/wiki/File:Parus_major.ogg",
+  "license": "Public domain (PD-self)",
+  "authors": [
+    "Oona Räisänen (Mysid)"
+  ],
+  "note": "Parus major singing in a birch, southern Finland, 2007 (stands in for the very similar Japanese tit, Parus minor).",
+  "processing": "ffmpeg: trim, mono, highpass=f=1500,highpass=f=1500,afftdn=nr=10:nf=-40,lowpass=f=9000, linear gain to peak -2 dBFS, short fades; mp3 via libmp3lame",
+  "downloaded": "2026-09-23T19:58:36.125Z",
+  "files": [
+    {
+      "file": "tit-a.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Parus_major.ogg",
+      "from": "0.45s",
+      "duration": "1.9s",
+      "size": 15926
+    }
+  ]
+}

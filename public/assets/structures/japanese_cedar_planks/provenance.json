@@ -1,0 +1,30 @@
+{
+  "id": "japanese_cedar_planks",
+  "name": "Japanese Cedar Planks",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/japanese_cedar_planks",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Charlotte Baglioni",
+    "Rico Cilliers"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T20:01:22.412Z",
+  "files": [
+    {
+      "file": "japanese_cedar_planks_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/japanese_cedar_planks/japanese_cedar_planks_diff_2k.jpg",
+      "size": 2812544
+    },
+    {
+      "file": "japanese_cedar_planks_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/japanese_cedar_planks/japanese_cedar_planks_nor_gl_2k.jpg",
+      "size": 3776186
+    },
+    {
+      "file": "japanese_cedar_planks_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/japanese_cedar_planks/japanese_cedar_planks_arm_2k.jpg",
+      "size": 2782361
+    }
+  ]
+}

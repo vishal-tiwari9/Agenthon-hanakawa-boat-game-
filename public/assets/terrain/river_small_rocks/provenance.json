@@ -1,0 +1,30 @@
+{
+  "id": "river_small_rocks",
+  "name": "River Small Rocks",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/river_small_rocks",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel",
+    "Rico Cilliers"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:09:23.439Z",
+  "files": [
+    {
+      "file": "river_small_rocks_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_diff_1k.jpg",
+      "size": 1028735
+    },
+    {
+      "file": "river_small_rocks_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_nor_gl_1k.jpg",
+      "size": 1365737
+    },
+    {
+      "file": "river_small_rocks_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/river_small_rocks/river_small_rocks_arm_1k.jpg",
+      "size": 932251
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "uguisu",
+  "name": "Japanese bush warbler (uguisu) songs",
+  "type": "audio",
+  "source": "https://commons.wikimedia.org/wiki/File:SND_4458a.ogg",
+  "license": "Public domain (PD-self)",
+  "authors": [
+    "Fg2"
+  ],
+  "note": "Horornis (Cettia) diphone, recorded outside Kashihara Shrine at the foot of Mount Unebi, Nara, Japan. Six \"hoo-hokekyo\" phrases cut out.",
+  "processing": "ffmpeg: trim, mono, highpass=f=700,highpass=f=700,afftdn=nr=12:nf=-40,lowpass=f=5200, linear gain to peak -2 dBFS, short fades; mp3 via libmp3lame",
+  "downloaded": "2026-09-23T19:58:35.904Z",
+  "files": [
+    {
+      "file": "uguisu-a.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SND_4458a.ogg",
+      "from": "5.9s",
+      "duration": "1.7s",
+      "size": 14463
+    },
+    {
+      "file": "uguisu-b.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SND_4458a.ogg",
+      "from": "16.35s",
+      "duration": "1.75s",
+      "size": 14672
+    },
+    {
+      "file": "uguisu-c.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SND_4458a.ogg",
+      "from": "29.4s",
+      "duration": "1.8s",
+      "size": 15090
+    },
+    {
+      "file": "uguisu-d.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SND_4458a.ogg",
+      "from": "43.35s",
+      "duration": "1.55s",
+      "size": 13209
+    },
+    {
+      "file": "uguisu-e.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SND_4458a.ogg",
+      "from": "49.65s",
+      "duration": "1.65s",
+      "size": 14045
+    },
+    {
+      "file": "uguisu-f.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/SND_4458a.ogg",
+      "from": "57.35s",
+      "duration": "1.75s",
+      "size": 14672
+    }
+  ]
+}

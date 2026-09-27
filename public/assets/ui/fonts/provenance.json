@@ -1,0 +1,43 @@
+{
+  "id": "ui-fonts",
+  "name": "Geist (400, 500, 600), Cormorant Garamond (500, 600, 500 italic) and a two-glyph Noto Serif JP subset (花川, seal) webfonts",
+  "type": "font",
+  "license": "SIL Open Font License 1.1",
+  "source": "https://fontsource.org (cdn.jsdelivr.net/fontsource/fonts/geist, cormorant-garamond); upstream github.com/vercel/geist-font, github.com/CatharsisFonts/Cormorant; Noto Serif JP subset from fonts.googleapis.com (text=花川)",
+  "authors": [
+    "Vercel (Geist)",
+    "Christian Thalmann, Catharsis Fonts (Cormorant)",
+    "Google, Adobe (Noto Serif JP)"
+  ],
+  "downloaded": "2026-09-23",
+  "files": [
+    {
+      "file": "geist-400.woff2",
+      "url": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-400-normal.woff2"
+    },
+    {
+      "file": "geist-500.woff2",
+      "url": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-500-normal.woff2"
+    },
+    {
+      "file": "geist-600.woff2",
+      "url": "https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-600-normal.woff2"
+    },
+    {
+      "file": "cormorant-500.woff2",
+      "url": "https://cdn.jsdelivr.net/fontsource/fonts/cormorant-garamond@latest/latin-500-normal.woff2"
+    },
+    {
+      "file": "cormorant-600.woff2",
+      "url": "https://cdn.jsdelivr.net/fontsource/fonts/cormorant-garamond@latest/latin-600-normal.woff2"
+    },
+    {
+      "file": "cormorant-500-italic.woff2",
+      "url": "https://cdn.jsdelivr.net/fontsource/fonts/cormorant-garamond@latest/latin-500-italic.woff2"
+    },
+    {
+      "file": "seal-noto-serif-jp.woff2",
+      "url": "https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&text=%E8%8A%B1%E5%B7%9D"
+    }
+  ]
+}

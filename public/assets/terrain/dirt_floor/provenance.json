@@ -1,0 +1,29 @@
+{
+  "id": "dirt_floor",
+  "name": "Dirt Floor",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/dirt_floor",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "eye-candy.xyz"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:09:21.408Z",
+  "files": [
+    {
+      "file": "dirt_floor_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dirt_floor/dirt_floor_diff_1k.jpg",
+      "size": 903417
+    },
+    {
+      "file": "dirt_floor_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dirt_floor/dirt_floor_nor_gl_1k.jpg",
+      "size": 1167485
+    },
+    {
+      "file": "dirt_floor_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dirt_floor/dirt_floor_arm_1k.jpg",
+      "size": 652716
+    }
+  ]
+}

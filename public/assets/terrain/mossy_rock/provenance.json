@@ -1,0 +1,29 @@
+{
+  "id": "mossy_rock",
+  "name": "Mossy Rock",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/mossy_rock",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Rob Tuytel"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:24:42.816Z",
+  "files": [
+    {
+      "file": "mossy_rock_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_diff_1k.jpg",
+      "size": 1124438
+    },
+    {
+      "file": "mossy_rock_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_nor_gl_1k.jpg",
+      "size": 995727
+    },
+    {
+      "file": "mossy_rock_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/mossy_rock/mossy_rock_arm_1k.jpg",
+      "size": 926941
+    }
+  ]
+}

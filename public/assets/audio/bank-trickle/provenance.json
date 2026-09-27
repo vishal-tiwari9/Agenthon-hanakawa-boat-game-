@@ -1,0 +1,22 @@
+{
+  "id": "bank-trickle",
+  "name": "Water trickle in a wooded burn",
+  "type": "audio",
+  "source": "https://commons.wikimedia.org/wiki/File:363120_fractalstudios_water-trickle.wav",
+  "license": "CC0 1.0 (via freesound.org/people/FractalStudios/sounds/363120)",
+  "authors": [
+    "FractalStudios"
+  ],
+  "note": "A small burn trickling through a wooded area, Zoom H1, 2016. Bank lapping/trickle loop.",
+  "processing": "ffmpeg: trim, mono, highpass=f=80,highpass=f=80,lowpass=f=12000, linear gain to -22 LUFS (true peak <= -1.5 dBTP), short fades; mp3 via libmp3lame",
+  "downloaded": "2026-09-23T19:58:51.999Z",
+  "files": [
+    {
+      "file": "bank-trickle.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/363120_fractalstudios_water-trickle.wav",
+      "from": "4s",
+      "duration": "28s",
+      "size": 336882
+    }
+  ]
+}

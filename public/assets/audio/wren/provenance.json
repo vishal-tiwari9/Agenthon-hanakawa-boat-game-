@@ -1,0 +1,22 @@
+{
+  "id": "wren",
+  "name": "Wren song",
+  "type": "audio",
+  "source": "https://commons.wikimedia.org/wiki/File:Troglodytes_troglodytes.ogg",
+  "license": "Public domain (PD-self)",
+  "authors": [
+    "Sogning"
+  ],
+  "note": "Troglodytes troglodytes, Norway, 2006 (stands in for the Japanese wren, whose song is similar).",
+  "processing": "ffmpeg: trim, mono, highpass=f=2500,highpass=f=2500,afftdn=nr=15:nf=-38,lowpass=f=9500, linear gain to peak -2 dBFS, short fades; mp3 via libmp3lame",
+  "downloaded": "2026-09-23T19:58:36.388Z",
+  "files": [
+    {
+      "file": "wren-a.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Troglodytes_troglodytes.ogg",
+      "from": "0.9s",
+      "duration": "5.2s",
+      "size": 42257
+    }
+  ]
+}

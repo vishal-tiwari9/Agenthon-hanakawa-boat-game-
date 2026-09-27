@@ -1,0 +1,29 @@
+{
+  "id": "sapele_veneer",
+  "name": "Sapele Veneer",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/sapele_veneer",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Jenelle van Heerden"
+  ],
+  "resolution": "2k",
+  "downloaded": "2026-09-23T18:45:02.004Z",
+  "files": [
+    {
+      "file": "sapele_veneer_diffuse_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/sapele_veneer/sapele_veneer_diff_2k.jpg",
+      "size": 2829181
+    },
+    {
+      "file": "sapele_veneer_nor_gl_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/sapele_veneer/sapele_veneer_nor_gl_2k.jpg",
+      "size": 2527515
+    },
+    {
+      "file": "sapele_veneer_arm_2k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/sapele_veneer/sapele_veneer_arm_2k.jpg",
+      "size": 1798049
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dark_rock_02",
+  "name": "Dark Rock 02",
+  "type": "texture",
+  "source": "https://polyhaven.com/a/dark_rock_02",
+  "license": "CC0 1.0 (Poly Haven)",
+  "authors": [
+    "Amal Kumar"
+  ],
+  "resolution": "1k",
+  "downloaded": "2026-09-23T20:24:43.488Z",
+  "files": [
+    {
+      "file": "dark_rock_02_diffuse_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_rock_02/dark_rock_02_diff_1k.jpg",
+      "size": 592452
+    },
+    {
+      "file": "dark_rock_02_nor_gl_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_rock_02/dark_rock_02_nor_gl_1k.jpg",
+      "size": 1028835
+    },
+    {
+      "file": "dark_rock_02_arm_1k.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/dark_rock_02/dark_rock_02_arm_1k.jpg",
+      "size": 660892
+    }
+  ]
+}

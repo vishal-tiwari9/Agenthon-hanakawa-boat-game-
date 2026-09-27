@@ -1,0 +1,22 @@
+{
+  "id": "river-rinnsal",
+  "name": "Brook trickling by a meadow (Molln)",
+  "type": "audio",
+  "source": "https://commons.wikimedia.org/wiki/File:2024-07-26_Molln_(Ober%C3%B6sterreich)_Rinnsal_pl%C3%A4tschert_bei_der_Wiese_im_Wasserschutzgebiet_Br%C3%A4ugrabenstra%C3%9Fe.wav",
+  "license": "CC0 1.0 (self)",
+  "authors": [
+    "DrTrumpet"
+  ],
+  "note": "Mollner Bach, Molln, Upper Austria, 2024. Neumann TLM 102 + Zoom H6. Calm river bed loop.",
+  "processing": "ffmpeg: trim, mono, highpass=f=80,highpass=f=80,lowpass=f=12000, linear gain to -22 LUFS (true peak <= -1.5 dBTP), short fades; mp3 via libmp3lame",
+  "downloaded": "2026-09-23T19:58:39.349Z",
+  "files": [
+    {
+      "file": "river-calm.mp3",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2024-07-26_Molln_%28Ober%C3%B6sterreich%29_Rinnsal_pl%C3%A4tschert_bei_der_Wiese_im_Wasserschutzgebiet_Br%C3%A4ugrabenstra%C3%9Fe.wav",
+      "from": "0.5s",
+      "duration": "27.5s",
+      "size": 330914
+    }
+  ]
+}
