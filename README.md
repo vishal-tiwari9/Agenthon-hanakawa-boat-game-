@@ -4,6 +4,11 @@
 
 A playable Japanese river boating game built with TypeScript, Vite, Three.js WebGPURenderer/TSL and Rapier. Cruise a forested valley in a wooden canopy boat, pass beneath four bridges, visit riverside landings and complete optional deliveries and discoveries.
 
+##DEMO VIDEO
+https://www.image2url.com/r2/default/videos/1790575280445-009f4fe2-0e4b-466a-9be8-40dcee8ab305.mp4
+
+
+
 ## Run
 
 ```sh
